@@ -2,7 +2,8 @@
 - Ask me about:
     - Flutter/Dart
     - php/Codeigniter/Laravel
-    - Bootstrap
+    - CSS/Bootstrap
+    - JavaScript/JQuery
     - Python/Django/Flask
     - Wordpress
     - Java
