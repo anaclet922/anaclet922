@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anaclet (@anaclet922)
-- Ask me about:
+<!-- - Ask me about:
     - Flutter/Dart
     - php/Codeigniter/Laravel
     - CSS/Bootstrap
@@ -8,7 +8,7 @@
     - Wordpress
     - Java
     - MySQL
-    - SQLite 
+    - SQLite  -->
 
 <!---
 anaclet922/anaclet922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
