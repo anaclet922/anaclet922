@@ -3,7 +3,7 @@
     - Flutter/Dart
     - php/Codeigniter/Laravel
     - CSS/Bootstrap
-    - JavaScript/JQuery
+    - JavaScript/JQuery/ReactJs
     - Python/Django/Flask
     - Wordpress
     - Java
