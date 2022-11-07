@@ -6,7 +6,8 @@
     - Python/Django/Flask
     - Wordpress
     - Java
-    - MYSQL 
+    - MySQL
+    - SQLite 
 
 <!---
 anaclet922/anaclet922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
