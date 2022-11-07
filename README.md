@@ -4,7 +4,9 @@
     - php/Codeigniter/Laravel
     - Bootstrap
     - Python/Django/Flask
-    - Wordpress 
+    - Wordpress
+    - Java
+    - MYSQL 
 
 <!---
 anaclet922/anaclet922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
