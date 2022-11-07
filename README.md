@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @anaclet922
+- 👋 Hi, I’m Anaclet (@anaclet922)
+- Ask me about:
+    - Flutter/Dart
+    - php/Codeigniter/Laravel
+    - Bootstrap
+    - Python/Django/Flask
+    - Wordpress 
 
 <!---
 anaclet922/anaclet922 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
