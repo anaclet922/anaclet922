@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Anaclet (@anaclet922)
+- Build things for the internet 👨🏾‍💻
 <!-- - Ask me about:
     - Flutter/Dart
     - php/Codeigniter/Laravel
